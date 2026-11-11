@@ -18,3 +18,5 @@ Cera is a floating candle timer for focus. Set the candle’s height, click the 
 - **Visit the Hall of Candles.** See your burn totals and deed progress. Some deeds award new plates, and seasonal candles come and go through the year.
 
 This repository hosts production downloads and release notes. The preview is available for Apple silicon Macs, Intel Macs, and Windows x64.
+
+[Updating Cera and keeping your progress](UPDATING.md)
