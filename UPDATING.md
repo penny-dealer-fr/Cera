@@ -17,11 +17,16 @@ Keep both editions installed if you like. With 0.2.0 or later, opening the other
 
 The profile stays on your computer. Replacing an app bundle or an extracted Windows folder leaves it in place. Both editions use `~/Library/Application Support/cera-un-pomodoro` on macOS and `%APPDATA%\cera-un-pomodoro` on Windows. Keep that folder and, on macOS, its Keychain entries. Switch between the current builds so both understand new candle styles.
 
-## Cera Flame and Clear Wax
+## Cera Flame, Cera Smoke, and Clear Wax
 
-Cera Flame runs alongside either edition. It keeps its own candle and stats. Fully burn a Flame candle and its actual burn duration earns Clear Wax in both full editions under the matching candle's appearance picker.
+Flame and Smoke both run alongside either full edition. They each have one white candle, with a duration from 5 minutes to 10 hours and a simple stats popup.
 
-| Completed Flame burn | Clear Wax unlocked |
+- **Cera Flame** uses Lite’s 3D white candle and brass saucer. Drag the candle’s top to set the duration.
+- **Cera Smoke** is the original 2D Flame. It keeps your old Flame candle, pins, settings, and stats automatically. Set the duration with the slider or type the number of minutes. The new 3D Flame has its own stats. If the original 2D Flame is running, quit it before opening Smoke for the first time.
+
+Update Cera or Cera Lite to 0.2.1 or later to receive rewards from both editions. A complete Flame or Smoke burn earns Clear Wax in both full editions under the matching candle’s appearance picker.
+
+| Completed Flame or Smoke burn | Clear Wax unlocked |
 | --- | --- |
 | Under 30 min | White and tea light |
 | 30 min to under 1 h | White |
@@ -30,6 +35,6 @@ Cera Flame runs alongside either edition. It keeps its own candle and stats. Ful
 | 5 h to under 10 h | Black |
 | 10 h or longer | Purple and gold |
 
-Uncertainty can move a burn into a neighboring band. A short burn still qualifies if it finishes below five minutes because of uncertainty. Purple, tea, and gold variants become selectable once their base candles are unlocked through the usual progression. Flame shares these rewards locally, including ones earned before you install a full edition.
+Uncertainty can move a burn into a neighboring band. A short burn still qualifies if it finishes below five minutes because of uncertainty. Purple, tea, and gold variants become selectable once their base candles are unlocked through the usual progression. Both editions share these rewards locally, including ones earned before you install a full edition.
 
 The plate and wick show through Clear Wax with its default settings. To distort the desktop behind the candle, right-click a Clear Wax candle and enable **Refract Desktop (Screen Capture)**. Grant the operating system's Screen Recording permission if prompted. The refraction feed is used locally and stops when you turn it off or switch to another candle appearance.
