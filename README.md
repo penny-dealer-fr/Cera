@@ -2,7 +2,7 @@
 
 Cera is a floating candle timer for focus. Set the candle’s height, click the wick, and work while it burns down. The wax gives you a sense of how much time is left.
 
-[Explore the Cera site](https://cera-app.leopoldogastel.workers.dev) · [Download Cera Lite · recommended](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.0)
+[Explore the Cera site](https://cera-app.leopoldogastel.workers.dev) · [Download Cera Lite · recommended](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.1)
 
 <p>
   <img src="screenshots/white-candle.webp" alt="Lit white candle in a brass saucer" height="320">
@@ -14,7 +14,10 @@ Cera is a floating candle timer for focus. Set the candle’s height, click the 
 
 - **Cera Lite** is recommended for everyday use. It keeps every candle, feature, and unlock with lower rendering load.
 - **Cera** offers the same experience at full rendering quality. Both share the same local profile, including your active candle.
-- **Cera Flame** is a single white candle from 5 minutes to 10 hours with movable plates, pins, and simple stats. Completed burns earn Clear Wax in Cera and Cera Lite.
+- **Cera Flame** uses Lite’s 3D white candle and brass saucer. Drag the top to set the burn from 5 minutes to 10 hours.
+- **Cera Smoke** is the 2D edition with movable plates and a slider and numeric duration input. It keeps your original Flame candle and stats.
+
+Both Flame and Smoke have simple burn stats. Completed burns earn Clear Wax in Cera and Cera Lite.
 
 ## How it works
 
