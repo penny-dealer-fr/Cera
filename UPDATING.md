@@ -1,34 +1,35 @@
-# Updating Cera
+# Switch between Cera and Cera Lite
 
-Cera currently updates manually. Download the newest preview from [GitHub Releases](https://github.com/penny-dealer-fr/Cera/releases). Choose Apple silicon Mac, Intel Mac, or Windows x64 as appropriate.
+[Cera Lite is the recommended download](https://github.com/penny-dealer-fr/Cera/releases). It has the same candles, Hall, seasons, connectors, and progression as Cera, with a lower-power renderer. Both editions use one profile per computer login.
 
-Your candle, deeds, and unlocks are saved separately from the application. Replacing the application keeps that progress.
+## Cera → Cera Lite
 
-## macOS
+1. Quit Cera if you're coming from 0.1.3 or earlier.
+2. Download Cera Lite for your platform. On macOS, move **Cera Lite.app** into Applications. On Windows, extract it to its own folder and open **Cera Lite.exe**.
+3. Open Cera Lite. Your current candle, pins, Hall, unlocks, and settings are already there. A normal lit candle continues burning while you switch.
 
-1. Quit Cera, including any older copy that is still running.
-2. Download and extract the new ZIP.
-3. Drag the new **Cera.app** into **Applications**, replacing the previous Cera.
-4. Open Cera from Applications. Keep just one normal Cera app so you always launch the updated copy.
+## Cera Lite → Cera
 
-The Mac previews are signed with Apple Development and are not notarized. macOS may ask you to approve opening the app.
+1. Install or update **Cera** to 0.2.0 or later. Use **Cera.app** on macOS or **Cera.exe** in a separate extracted folder on Windows.
+2. Open Cera. It takes over the same profile and active candle.
 
-## Windows
+Keep both editions installed if you like. With 0.2.0 or later, opening the other edition closes the current one and passes it the same profile. The Hall and Table reopen on demand. The special purple challenge follows its usual rule when its window closes, so switch after that burn if you want to keep the attempt.
 
-1. Quit Cera.
-2. Download the new Windows ZIP and extract it into a new folder.
-3. Replace the old application folder with the complete new folder. Keep its supporting files together; replacing only Cera.exe is insufficient.
-4. Run Cera.exe. Update any shortcut that still points to the previous folder.
+The profile stays on your computer. Replacing an app bundle or an extracted Windows folder leaves it in place. Both editions use `~/Library/Application Support/cera-un-pomodoro` on macOS and `%APPDATA%\cera-un-pomodoro` on Windows. Keep that folder and, on macOS, its Keychain entries. Switch between the current builds so both understand new candle styles.
 
-The Windows preview is unsigned.
+## Cera Flame and Clear Wax
 
-## Keeping your progress
+Cera Flame runs alongside either edition. It keeps its own candle and stats. Fully burn a Flame candle and its actual burn duration earns Clear Wax in both full editions under the matching candle's appearance picker.
 
-Do not delete Cera's saved application data when updating:
+| Completed Flame burn | Clear Wax unlocked |
+| --- | --- |
+| Under 30 min | White and tea light |
+| 30 min to under 1 h | White |
+| 1 h to under 3 h | Blue |
+| 3 h to under 5 h | Red |
+| 5 h to under 10 h | Black |
+| 10 h or longer | Purple and gold |
 
-- **macOS:** `~/Library/Application Support/cera-un-pomodoro/`
-- **Windows:** `%APPDATA%\cera-un-pomodoro\`
+Uncertainty can move a burn into a neighboring band. A short burn still qualifies if it finishes below five minutes because of uncertainty. Purple, tea, and gold variants become selectable once their base candles are unlocked through the usual progression. Flame shares these rewards locally, including ones earned before you install a full edition.
 
-You can make a copy of that folder after quitting Cera as a precaution. Normal and development builds can use different profiles; changing which build you open does not merge their saved progress.
-
-There is no automatic update checker or update notification yet. Check the release page for new versions.
+The plate and wick show through Clear Wax with its default settings. To distort the desktop behind the candle, right-click a Clear Wax candle and enable **Refract Desktop (Screen Capture)**. Grant the operating system's Screen Recording permission if prompted. The refraction feed is used locally and stops when you turn it off or switch to another candle appearance.
