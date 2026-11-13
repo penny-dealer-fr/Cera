@@ -1,6 +1,6 @@
 # Switch between Cera and Cera Lite
 
-[Cera Lite is the recommended download](https://github.com/penny-dealer-fr/Cera/releases). It has the same candles, Hall, seasons, connectors, and progression as Cera, with a lower-power renderer. Both editions use one profile per computer login.
+[Cera Lite is the recommended download](https://github.com/penny-dealer-fr/Cera/releases/latest). It has the same candles, Hall, seasons, connectors, and progression as Cera, with a lower-power renderer. Both editions use one profile per computer login.
 
 ## Cera → Cera Lite
 
@@ -24,7 +24,7 @@ Flame and Smoke both run alongside either full edition. They each have one white
 - **Cera Flame** uses Lite’s 3D white candle and brass saucer. Drag the candle’s top to set the duration.
 - **Cera Smoke** is the original 2D Flame. It keeps your old Flame candle, pins, settings, and stats automatically. Set the duration with the slider or type the number of minutes. The new 3D Flame has its own stats. If the original 2D Flame is running, quit it before opening Smoke for the first time.
 
-Update Cera or Cera Lite to 0.2.1 or later to receive rewards from both editions. A complete Flame or Smoke burn earns Clear Wax in both full editions under the matching candle’s appearance picker.
+Update Cera or Cera Lite to 0.2.1 or later to receive rewards from both editions. A completed Flame or Smoke burn earns Clear Wax in both full editions. Starting with 0.2.4, each variant has a deed in the Hall of Candles. Existing burn rewards count automatically, and all seven deeds count toward Every Last Thing. The Clear Gold Wax deed can be earned before the gold candle is available.
 
 | Completed Flame or Smoke burn | Clear Wax unlocked |
 | --- | --- |
