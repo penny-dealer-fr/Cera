@@ -2,6 +2,8 @@
 
 [Cera Lite is the recommended download](https://github.com/penny-dealer-fr/Cera/releases/latest). It has the same candles, Hall, seasons, connectors, and progression as Cera, with a lower-power renderer. Both editions use one profile per computer login.
 
+[Apple Silicon preview with terminal support](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.6-preview.1)
+
 ## Cera → Cera Lite
 
 1. Quit Cera if you're coming from 0.1.3 or earlier.
