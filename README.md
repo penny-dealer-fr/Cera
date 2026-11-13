@@ -17,7 +17,7 @@ Cera is a floating candle timer for focus. Set the candle’s height, click the 
 - **Cera Flame** uses Lite’s 3D white candle and brass saucer. Drag the top to set the burn from 5 minutes to 10 hours.
 - **Cera Smoke** is the 2D edition with movable plates and a slider and numeric duration input. It keeps your original Flame candle and stats.
 
-Both Flame and Smoke have simple burn stats. Completed burns earn Clear Wax in Cera and Cera Lite.
+Both Flame and Smoke have simple burn stats. Completed burns earn Clear Wax deeds in Cera and Cera Lite. All seven count toward Every Last Thing.
 
 ## How it works
 
