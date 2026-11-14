@@ -4,7 +4,7 @@ Cera is a floating candle timer for focus. Set the candle’s height, click the 
 
 [Explore the Cera site](https://cera-app.leopoldogastel.workers.dev) · [Download Cera and Cera Lite · 0.2.5](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.5) · [Cera Flame and Cera Smoke](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.4)
 
-[Apple Silicon 0.2.6 preview and Cera CLI](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.6-preview.1)
+[Apple Silicon 0.2.6 preview and Cera CLI](https://github.com/penny-dealer-fr/Cera/releases/tag/v0.2.6-preview.2)
 
 <p>
   <img src="screenshots/white-candle.webp" alt="Lit white candle in a brass saucer" height="320">
